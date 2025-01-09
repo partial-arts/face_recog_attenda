@@ -1,5 +1,5 @@
 ## Source: https://www.youtube.com/watch?v=pQvkoaevVMk
-## In the GUI_code, inspire the "replace" of the part of face recognition with this program
+## In the shubhamkumar27_face_recog_attendance/main.py, inspire the "replace" of the part of face recognition with this program
 
 import threading
 import cv2 
