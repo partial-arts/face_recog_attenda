@@ -1,6 +1,3 @@
-## Source: https://www.youtube.com/watch?v=pQvkoaevVMk
-## In the shubhamkumar27_face_recog_attendance/main.py, inspire the "replace" of the part of face recognition with this program
-
 import threading
 import cv2 
 from deepface import DeepFace
@@ -54,3 +51,23 @@ while True:
  if key == ord("q"):
     break
 cv2.destroyAllWindows()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Source: https://www.youtube.com/watch?v=pQvkoaevVMk
+## In the shubhamkumar27_face_recog_attendance/main.py, inspire the "replace" of the part of face recognition with this program
